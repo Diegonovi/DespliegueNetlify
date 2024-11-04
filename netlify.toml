@@ -1,7 +1,7 @@
 [build]
   base = "DummyProject"
   command = "chmod +x ./gradlew && ./gradlew clean build"
-  publish = "my-app"
+  publish = "."
 
 # Redirects configuration
 [[redirects]]
