@@ -1,16 +1,10 @@
 [build]
-  # Set `my-app` as the base directory where `index.html` is located
   base = "DummyProyect"
-  
-  # Run the Gradle build command from within `my-app`
   command = "./gradlew clean build"
-
-  # Publish from `my-app`, as it contains both `index.html` and the `build` folder
   publish = "my-app"
 
 # Redirects configuration
 [[redirects]]
-  # Redirect root path to `index.html` located inside `my-app`
   from = "/"
   to = "/index.html"
   status = 200
