@@ -41,4 +41,4 @@ Esos son:
 
 #### /test/
 
-![app.com](./screenshots/tests.png)
+![app.com](./screenshots/test.png)
