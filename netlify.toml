@@ -13,3 +13,13 @@
   from = "/docs/*"
   to = "/build/docs/javadoc/:splat"
   status = 200
+
+[[redirects]]
+  from = "/coverage/*"
+  to = "/build/jacocoHtml/:splat"
+  status = 200
+
+  [[redirects]]
+  from = "/test/*"
+  to = "/build/tests/test/:splat"
+  status = 200
