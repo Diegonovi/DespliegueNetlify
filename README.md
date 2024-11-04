@@ -21,24 +21,24 @@ Esos son:
 
 ### Capturas
 
-#### app.com
+#### diegodummyapp.netlify.app
 
 ![app.com](./screenshots/app.png)
 
 <br/>
 
-#### app.com/docs
+#### /docs/
 
 ![app.com](./screenshots/docs.png)
 
 <br/>
 
-#### app.com/coverage
+#### /coverage/
 
 ![app.com](./screenshots/coverage.png)
 
 <br/>
 
-#### app.com/test
+#### /test/
 
 ![app.com](./screenshots/tests.png)
